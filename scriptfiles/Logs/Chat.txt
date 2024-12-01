@@ -1,0 +1,60 @@
+[21/04/2024 - 13:12:47] - [CHAT] Jimmy Cortez: halo cuy lama tar berjumpa
+[21/04/2024 - 13:13:07] - [CHAT] Jimmy Cortez: jadi disini gw bakalan share gamemode polos cuy
+[21/04/2024 - 13:13:15] - [CHAT] Jimmy Cortez: cocok buat kalian yang mau remake gm
+[21/04/2024 - 13:13:32] - [CHAT] Jimmy Cortez: gm ini juga udah gw ubah hbenya
+[21/04/2024 - 13:13:42] - [CHAT] Jimmy Cortez: udah ada staterpacnya juga
+[21/04/2024 - 13:13:51] - [CHAT] Jimmy Cortez: nah kan ada
+[21/04/2024 - 13:14:08] - [CHAT] Jimmy Cortez: buat hbenya kalian bisa lihat di pojok kanan bawah
+[21/04/2024 - 13:14:24] - [CHAT] Jimmy Cortez: kalo kendaraan juga ada lago
+[21/04/2024 - 13:14:27] - [CHAT] Jimmy Cortez: kaya gini
+[21/04/2024 - 13:14:30] - [CHAT] Jimmy Cortez: simple
+[21/04/2024 - 13:14:38] - [CHAT] Jimmy Cortez: ga lebay" amat oakwokawok
+[21/04/2024 - 13:14:51] - [CHAT] Jimmy Cortez: oke tanpa basa basi lagi langsung aja ke priviewnya
+[21/04/2024 - 13:16:23] - [CHAT] Jimmy Cortez: nah disini juga ada td hape gessa
+[21/04/2024 - 13:16:45] - [CHAT] Jimmy Cortez: ada twitter juga
+[21/04/2024 - 13:17:09] - [CHAT] Jimmy Cortez: masih tahap pengembangan ternyata
+[21/04/2024 - 13:17:14] - [CHAT] Jimmy Cortez: tar gw ubah dah biar bisa
+[21/04/2024 - 13:17:18] - [CHAT] Jimmy Cortez: oke next aja
+[21/04/2024 - 13:18:53] - [CHAT] Jimmy Cortez: nah disini juga ada insurance
+[21/04/2024 - 13:19:06] - [CHAT] Jimmy Cortez: ini objeknya bug karna client gw yaa
+[21/04/2024 - 13:19:12] - [CHAT] Jimmy Cortez: bukan karna gmnya
+[21/04/2024 - 13:19:27] - [CHAT] Jimmy Cortez: disini ada buat akses insurance
+[21/04/2024 - 13:19:38] - [CHAT] Jimmy Cortez: ada sparepart juga
+[21/04/2024 - 13:19:42] - [CHAT] Jimmy Cortez: oke next aja
+[21/04/2024 - 13:20:48] - [CHAT] Jimmy Cortez: disini ada dealer
+[21/04/2024 - 13:20:55] - [CHAT] Jimmy Cortez: yempatnya lom dimapping
+[21/04/2024 - 13:21:25] - [CHAT] Jimmy Cortez: work ya cuy
+[21/04/2024 - 13:21:46] - [CHAT] Jimmy Cortez: oke next
+[21/04/2024 - 13:22:27] - [CHAT] Jimmy Cortez: nah disini ada city hall ya
+[21/04/2024 - 13:22:35] - [CHAT] Jimmy Cortez: tempatnya masi polos
+[21/04/2024 - 13:22:49] - [CHAT] Jimmy Cortez: sesuai sama yang gw bilang tadi,karna gmnya Masi polos juga
+[21/04/2024 - 13:23:18] - [CHAT] Jimmy Cortez: ini ga ada bug ya
+[21/04/2024 - 13:23:32] - [CHAT] Jimmy Cortez: aman semua
+[21/04/2024 - 13:24:00] - [CHAT] Jimmy Cortez: ini juga ada lspd
+[21/04/2024 - 13:24:06] - [CHAT] Jimmy Cortez: masi polos juga
+[21/04/2024 - 13:24:20] - [CHAT] Jimmy Cortez: ada plate
+[21/04/2024 - 13:24:32] - [CHAT] Jimmy Cortez: ini tempat jailnya
+[21/04/2024 - 13:25:02] - [CHAT] Jimmy Cortez: ini ada kendaraanya udah di siapin
+[21/04/2024 - 13:25:08] - [CHAT] Jimmy Cortez: ada banyak
+[21/04/2024 - 13:25:21] - [CHAT] Jimmy Cortez: ada rs
+[21/04/2024 - 13:25:32] - [CHAT] Jimmy Cortez: ntar kalian pasang aja mappingannya sendiri
+[21/04/2024 - 13:25:39] - [CHAT] Jimmy Cortez: remake remake sesuai selera kalian
+[21/04/2024 - 13:25:53] - [CHAT] Jimmy Cortez: ini ada buat beli obat
+[21/04/2024 - 13:26:05] - [CHAT] Jimmy Cortez: garasi juga udah ada
+[21/04/2024 - 13:26:35] - [CHAT] Jimmy Cortez: ouh iya ada garkot juga
+[21/04/2024 - 13:26:52] - [CHAT] Jimmy Cortez: nah
+[21/04/2024 - 13:27:22] - [CHAT] Jimmy Cortez: buat aksesnya kaliam bisa pencet tombol Y
+[21/04/2024 - 13:27:33] - [CHAT] Jimmy Cortez: work cuy
+[21/04/2024 - 13:28:12] - [CHAT] Jimmy Cortez: oke mungkin videonya sampai disini aja
+[21/04/2024 - 13:28:26] - [CHAT] Jimmy Cortez: karna ini gm polos jadi ga bisa riview banyak"
+[21/04/2024 - 13:28:37] - [CHAT] Jimmy Cortez: dsini gw cuman baru Ubah textdraw hbe doang ya
+[21/04/2024 - 13:28:44] - [CHAT] Jimmy Cortez: kalo kalian mau ganti juga bisa si
+[21/04/2024 - 13:28:49] - [CHAT] Jimmy Cortez: sesuai selera kalian
+[21/04/2024 - 13:29:04] - [CHAT] Jimmy Cortez: ini gm itu bekas server great Roleplay
+[21/04/2024 - 13:29:08] - [CHAT] Jimmy Cortez: yang udah lama
+[21/04/2024 - 13:29:29] - [CHAT] Jimmy Cortez: buat bugnya gw lom nemu si,kalo ada bug apa" fix sendiri aja
+[21/04/2024 - 13:29:53] - [CHAT] Jimmy Cortez: atau kalian join comun dibawah terus tsnya di chanel yang udah di sediain
+[21/04/2024 - 13:30:03] - [CHAT] Jimmy Cortez: oke mungkin segini aja dulu riview hari ini
+[21/04/2024 - 13:30:13] - [CHAT] Jimmy Cortez: makasih udah nonton
+[21/04/2024 - 13:30:20] - [CHAT] Jimmy Cortez: bye bye~~~
+[25/11/2024 - 16:52:26] - [CHAT] OwinGG: rpwar

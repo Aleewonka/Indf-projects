@@ -1,0 +1,3 @@
+[21/04/2024 - 13:15:21] - [BIZ]: Jimmy Cortez membeli bisnis id 0 seharga $10!
+[21/04/2024 - 13:21:21] - [VEH]: Jimmy Cortez membeli kendaraan seharga $14,000 model Sultan(560)!
+[25/11/2024 - 16:56:29] - [BIZ]: Marvel Owin membeli bisnis id 0 seharga $10,000!
