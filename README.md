@@ -7,7 +7,10 @@
 - Exterior & Interior Cool Mapping
 - Speedcam & Speedtrap
 - Car Steling
+- Radial Menu
+- Phone Texdraw
+- Inventory
 
 # Credits
-- Dandy (Base script)
-- Adit (Updated)
+- Alee Wonka (Base Script)
+- LeoPatra (Updated)
